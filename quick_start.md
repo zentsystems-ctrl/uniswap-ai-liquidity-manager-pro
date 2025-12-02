@@ -16,8 +16,8 @@ Get up and running with the Uniswap V3 AI Manager in under 10 minutes!
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/uniswap-v3-ai-manager.git
-cd uniswap-v3-ai-manager
+git clone https://github.com/zentsystems-ctrl/uniswap-ai-liquidity-manager-pro.git
+cd uniswap-ai-liquidity-manager-pro
 
 # Install Node.js dependencies
 npm install
@@ -360,9 +360,9 @@ Expected output:
 
 ## Getting Help
 
-- **Documentation**: Check [README.md](README.md) and [Wiki](https://github.com/yourusername/uniswap-v3-ai-manager/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/uniswap-v3-ai-manager/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/uniswap-v3-ai-manager/discussions)
+- **Documentation**: [Wiki](https://github.com/zentsystems-ctrl/uniswap-ai-liquitiy-manager-pro/wiki)
+- **Issues**: [GitHub Issues](https://github.com/zentsystems-ctrl/uniswap-ai-liquitiy-manager-pro/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/zentsystems-ctrl/uniswap-ai-liquitiy-manager-pro/discussions)
 
 ## Security Reminders
 
